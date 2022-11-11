@@ -1,0 +1,17 @@
+`ping`
+Returns a very helpful message about your ping.
+
+`info`
+Returns the most important information about Olaf.
+
+`uptime`
+Returns the amount of time Olaf has been online for.
+
+`quote`
+Returns a random quote from #quotes.
+
+`insult`
+Returns an extravagant insult for you to use.
+
+`fun`, `fact`, `funfact`
+Returns a random fun fact.
