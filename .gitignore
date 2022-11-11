@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# VSCode Code Line Counter Directory
+.VSCodeCounter
+
 # C extensions
 *.so
 
