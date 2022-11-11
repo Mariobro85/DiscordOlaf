@@ -7,6 +7,9 @@ Returns the most important information about Olaf.
 `uptime`
 Returns the amount of time Olaf has been online for.
 
+`timer [hh:mm:ss|mm:ss|ss] (text)`
+Sets a timer for x amount of time with a description.
+
 `quote`
 Returns a random quote from #quotes.
 
