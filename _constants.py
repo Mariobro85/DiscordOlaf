@@ -1,6 +1,7 @@
 APP_NAME = "DiscordOlaf"
-APP_VERSION = "0.1"
 BOT_NAME = "Olaf"
-CODE_LANG = "Python 3.10.6"
-DISCORD_API = "discord.py 2.0.1"
+APP_VERSION = "0.2"
 LANG_LOCALE = "en_GB.utf8"
+CODE_LANG = "Python 3.11.0"
+DISCORD_API = "py-cord 0.1.1"
+CODE_LINES = 203
